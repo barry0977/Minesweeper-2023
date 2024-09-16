@@ -1,5 +1,0 @@
-/mnt/e/clion/Minesweeper-2023/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/e/clion/Minesweeper-2023/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/mnt/e/clion/Minesweeper-2023/cmake-build-debug/src/CMakeFiles/server.dir
-/mnt/e/clion/Minesweeper-2023/cmake-build-debug/src/CMakeFiles/edit_cache.dir
-/mnt/e/clion/Minesweeper-2023/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
